@@ -1,5 +1,6 @@
 # Search Bar
 
+## Description
 <p> A simple search bar built with CSS and JavaScript to demostrate how search bar functionalities: 
   <li>Expand</li>
   <li>Clear</li>
